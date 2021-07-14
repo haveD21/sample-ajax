@@ -22,5 +22,5 @@ data: formData
 ```
 ```javascript
 {
-        "param1: "テスト"
+        "param1": "テスト"
 }
